@@ -1,0 +1,38 @@
+Hello world!
+1
+Sun Jan 07 21:20:00 BRST 2018
+-3.1499392
+false
+Groovy!
+Technology: Groovy
+Technology: Gradle
+0: Groovy
+1: Gradle
+name: Roberto
+framework: Grails
+language: Groovy
+lastName: Perez
+0: name=Roberto
+1: framework=Grails
+2: language=Groovy
+3: lastName=Perez
+[name, framework, language, lastName]
+[Roberto, Grails, Groovy, Perez]
+X greater than Two
+Executing the Closure:
+Hello World!
+6
+50
+hiInputs(a = 1, b = 2) - took 20 msecs.
+Inputs(a = 1, b = 2) - took 0 msecs.
+Inputs(a = 2, b = 3) - took 20 msecs.
+Inputs(a = 2, b = 3) - took 0 msecs.
+Inputs(a = 3, b = 4) - took 21 msecs.
+Inputs(a = 3, b = 4) - took 0 msecs.
+Inputs(a = 1, b = 2) - took 0 msecs.
+Inputs(a = 2, b = 3) - took 0 msecs.
+Inputs(a = 3, b = 4) - took 0 msecs.
+Name: Roberto, Last name: Pérez
+we added this
+Invoke method sum with args: [2, 3]
+Invoke method multiply with args: [2, 3]
